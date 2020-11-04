@@ -3,6 +3,8 @@ This is the code and the data set necessary to reproduce our results from the ch
 
 Authors: Simon Cramer, Meike Huber, Robert H. Schmitt
 
+**[Chair of Production Metrology and Quality Management at the Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University - Campus Boulevard 30, 52074 Aachen, Germany](https://www.wzl.rwth-aachen.de/cms/WZL/Forschung/~sujg/Fertigungsmesstechnik/)**
+
 Please cite this code or the data set as:
 
 ```
