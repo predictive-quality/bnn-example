@@ -25,7 +25,7 @@ We can report it working with:
 
 ## Usage
 
-To recreate our results simply run `python main.py`. Please not that the train/test split of the data set is random and you will not excatly reproduce our figures.
+To recreate our results simply run `python main.py`. Please note that the train/test split of the data set is random and you will not excatly reproduce our figures.
 
 You are invited to try other parameters and can change them in the file `main.py`.
 
