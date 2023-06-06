@@ -7,8 +7,17 @@ Authors: Simon Cramer, Meike Huber, Robert H. Schmitt
 
 Please cite this code or the data set as:
 
+Cramer, S., Huber, M., Schmitt, R.H. (2022). Uncertainty Quantification Based on Bayesian Neural Networks for Predictive Quality. In: Steland, A., Tsui, KL. (eds) Artificial Intelligence, Big Data and Data Science in Statistics. Springer, Cham. https://doi.org/10.1007/978-3-031-07155-3_10
+
 ```
-Bibtex entry is provided after succesfull publication.
+@incollection{cramer2022uncertainty,
+  title={Uncertainty Quantification Based on Bayesian Neural Networks for Predictive Quality},
+  author={Cramer, Simon and Huber, Meike and Schmitt, Robert H},
+  booktitle={Artificial Intelligence, Big Data and Data Science in Statistics: Challenges and Solutions in Environmetrics, the Natural Sciences and Technology},
+  pages={253--268},
+  year={2022},
+  publisher={Springer}
+}
 ```
 
 ## Installation
